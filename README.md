@@ -1,3 +1,6 @@
+
+**Please note this repository host code of https://github.com/FortyNorthSecurity/EyeWitness before https://github.com/FortyNorthSecurity/EyeWitness/commit/b7d8a4698c13c103eb12cbbdcb6afe3246a934cf commit, as headless firefox is very slow compared to selenium. Although selenium is no longer maintained but still works great.**
+
 EyeWitness
 ======
 
